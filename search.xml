@@ -2439,4 +2439,45 @@
         <tag>只狼</tag>
       </tags>
   </entry>
+  <entry>
+    <title>肥猪的test</title>
+    <url>/%E8%82%A5%E7%8C%AA%E7%9A%84test/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="被诅咒的猎人"><a href="#被诅咒的猎人" class="headerlink" title="被诅咒的猎人"></a>被诅咒的猎人</h1><p>上一篇文章《<a href="https://www.gcores.com/articles/117801" target="_blank" rel="noopener">雅楠城和兽化病的原型</a>》考据了古城雅楠和城中疾病的灵感来源，这回我们聊聊猎人。猎人是雅楠特有的职业，他们是野兽的克星，负责给患者们“物理除病”。</p>
+<p>一开始，猎人对野兽的猎杀卓见成效，因此他们被雅楠居民视为英雄。但好景不长，猎人们一夜之间离奇消失。民间传说是猎人沉溺于野兽的鲜血，陷入无法脱身的噩梦。</p>
+<p>当我们来到雅楠，野兽依然在街头上横行，猎人却早已被世人遗忘。老猎人格曼指导我们去寻找神秘的“苍白之血”，除此之外他很少提及别的事情，比如其他猎人的遭遇。</p>
+<p>在我看来，猎人的没落实际上是应验了《血源诅咒》的世界观规律，或者说是创作者的史观。《血源诅咒》虽是幻想题材，其中的困境往往能从现实找到影子。雅楠人受困于轮回的月夜，同时也被时代的局限性所束缚。一切看上去如此绝望，是因为探索未知的积极意义在这个游戏中被淡化，而失败的代价则被夸大。</p>
+<p>在考据猎人的过程中，我发现了一条隐藏的线索——<strong>水银</strong>。水银如同无形的诅咒，暗中主导了猎人命运。猎人的创作似乎是参考了现实历史中人类对水银的认知过程。</p>
+<p><strong>水银子弹</strong>是猎人的力量来源，<strong>狩猎装束</strong>是猎人的身份象征，<strong>渔村惨剧</strong>是猎人的原初罪行。本文接下来将要依次考据这些内容，分析猎人与水银之间究竟存在什么样的联系。</p>
+<h1 id="就发链接"><a href="#就发链接" class="headerlink" title="就发链接"></a>就发链接</h1><p><strong><em>就打发了就</em></strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p><img src="D:%5C%E5%9B%BE%E7%89%87%5C77db3dce46d4f6b0d0ff689ca02bc72f.jpg" alt=""></p>
+<p>hexo   clean #  清除生成在public目录里的静态文件</p>
+<p>hexo   g        #  在public目录生成静态文件</p>
+<p>hexo   d        #  将public目录生成静态文件上传到GitHub的(hefei935.github.io)仓库</p>
+<p>hexo   s        #  用于测试</p>
+]]></content>
+  </entry>
 </search>
