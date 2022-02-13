@@ -2473,9 +2473,9 @@
 <td></td>
 </tr>
 </tbody></table>
-<p><img src="D:%5C%E5%9B%BE%E7%89%87%5C77db3dce46d4f6b0d0ff689ca02bc72f.jpg" alt=""></p>
+<p><img src="https://gitee.com/hefei935/blogimages/raw/master/77db3dce46d4f6b0d0ff689ca02bc72f-min.jpg" alt=""></p>
 <p>hexo   clean #  清除生成在public目录里的静态文件</p>
-<p>hexo   g        #  在public目录生成静态文件</p>
+<p>hexo   g        #  在public目录生成静态文件  generate</p>
 <p>hexo   d        #  将public目录生成静态文件上传到GitHub的(hefei935.github.io)仓库</p>
 <p>hexo   s        #  用于测试</p>
 ]]></content>
